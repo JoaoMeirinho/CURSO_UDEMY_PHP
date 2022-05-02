@@ -27,3 +27,19 @@ echo '<br>', $variavel;
 
 $variavel = 'Agora sou uma string';
 echo '<br>', $variavel;
+
+//Nomes de variável
+
+$var = 'valida';
+$var2 = 'valida';
+$VAR3 = 'valida';
+$_var_4 = 'valida';
+// $6var = 'inválido';
+// $%var7 = 'inválido';
+// $var8% = 'inválido';
+
+echo '<br>';
+
+var_dump($_SERVER);
+
+
