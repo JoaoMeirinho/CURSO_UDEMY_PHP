@@ -16,12 +16,34 @@
   <main class="principal">
       <div class="conteudo">
           <nav class="modulos">
+                <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Básico array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapas">Arrays como mapas</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio index</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=operacoes">Operações com array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                        <li><a href="exercicio.php?dir=array&file=multi">Arrays Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Arrays Constantes</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get">Método GET</a></li>
+                        <li><a href="exercicio.php?dir=array&file=post">Método POST</a></li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Comaração de arrays</a></li>
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>4. Estruturas de Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">If Else</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores relacionais</a></li>
                         <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Operadores Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternario</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operador_ternario">Desafio Operador ternario</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
                     </ul>
                 </div>
                 <div class="modulo azul">
