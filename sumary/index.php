@@ -16,6 +16,28 @@
   <main class="principal">
       <div class="conteudo">
           <nav class="modulos">
+                <div class="modulo vermelho-escuro">
+                    <h3>7. Funções</h3>
+                    <ul>
+                    <li><a href="exercicio.php?dir=funcoes&file=funcao_escopo">Função e escopo</a></li>
+                    <li><a href="exercicio.php?dir=funcoes&file=argumento_retorno">Argumentos e retorno de função</a></li>
+                    <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palíndromo</a></li>
+
+                    </ul>
+                </div>
+                <div class="modulo verde-escuro">
+                    <h3>6. Laços de Repetição</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=lacos&file=for">Laço For</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=desafio_for">Desafio For</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=foreach">Laço foreach</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=break_continue">Break e continue</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=desafio_impressao">Desafio impressão</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=while">While/Do while</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=desafio_tabela">Desafio tabela</a></li>
+                        <li><a href="exercicio.php?dir=lacos&file=desafio_tabela_2">Desafio tabela 02</a></li>
+                    </ul>
+                </div>
                 <div class="modulo laranja">
                     <h3>5. Array</h3>
                     <ul>
