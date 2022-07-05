@@ -13,7 +13,7 @@ function palindromo($string){
 echo palindromo('arara');
 
 function palindromoWithFunction($string){
-    return ($string == strrev($string)) ? "Sim" : "Não";
+    return ($string === strrev($string)) ? "Sim" : "Não";
 }
 
 echo palindromoWithFunction('bola');
